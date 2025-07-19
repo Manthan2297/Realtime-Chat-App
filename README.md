@@ -15,6 +15,11 @@ https://realtime-chat-app-ir30.onrender.com/login
 ![Demo App](https://github.com/user-attachments/assets/69b950bd-62b9-4153-ac09-4a968f9c86f3)
 
 
+<img width="1224" height="752" alt="image" src="https://github.com/user-attachments/assets/9755cade-a0df-44bf-9621-4e0be4bd4a03" />
+
+
+
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI

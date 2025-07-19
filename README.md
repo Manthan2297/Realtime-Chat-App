@@ -14,8 +14,11 @@ https://realtime-chat-app-ir30.onrender.com/login
 
 ![Demo App](https://github.com/user-attachments/assets/69b950bd-62b9-4153-ac09-4a968f9c86f3)
 
+<img width="1535" height="756" alt="image" src="https://github.com/user-attachments/assets/0c2de8f2-9b1f-4550-a4eb-ffaead090b37" />
 
 <img width="1224" height="752" alt="image" src="https://github.com/user-attachments/assets/9755cade-a0df-44bf-9621-4e0be4bd4a03" />
+<img width="1577" height="772" alt="image" src="https://github.com/user-attachments/assets/d463d18c-9a4a-4e06-96c3-41028c0d744f" />
+
 
 
 
